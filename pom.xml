@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>com.ru.microservice</groupId>
-    <artifactId>hystryx-dashboard</artifactId>
+    <artifactId>hystrix-dashboard</artifactId>
     <version>1.0.0</version>
-    <name>hystryx-dashboard</name>
+    <name>hystrix-dashboard</name>
     <description>hystrix dashboard project</description>
 
     <properties>
